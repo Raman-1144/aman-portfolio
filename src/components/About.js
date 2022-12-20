@@ -1,5 +1,5 @@
 import React from "react";
-import amanpreet from "./amanpreet.pdf";
+import amanpreet from "./amanpreet-new-resume.pdf";
 export default function About() {
   return (
     <section id="about">
